@@ -6,9 +6,9 @@
 
 
 # 프로젝트 경험
-YOLO V3 기반 객체인식
+[YOLO V3 기반 객체인식] (https://github.com/REDNeOnSpade/yolov3-docker)
 
-TOPST(D3-G, VCP-G, AI-G)기반 차량용 SoC 반도체 개발
+[TOPST(D3-G, VCP-G, AI-G)기반 차량용 SoC 반도체 개발] (https://github.com/Fabless-Academy/FI-05-11_LYM)
 
 CATIA V5 미래 모빌리티 설계 경험
 
