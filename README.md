@@ -1,13 +1,13 @@
 # 학력
 
-###국민대학교 자동차IT융합학과 
+### 국민대학교 자동차IT융합학과 
 
 - 재학 기간 : 2024.02 ~ 2026.02
 
 - 학점 3.53
 
 
-###대림대학교 스마트전자통신학부 
+### 대림대학교 스마트전자통신학부 
 
 - 재학 기간 : 2018.02 ~ 2023.02
 
@@ -15,13 +15,13 @@
 
 
 # 프로젝트 경험
-[TOPST(D3-G, VCP-G, AI-G)기반 차량용 SoC 반도체 개발](https://github.com/Fabless-Academy/FI-05-11_LYM)
+### [TOPST(D3-G, VCP-G, AI-G)기반 차량용 SoC 반도체 개발](https://github.com/Fabless-Academy/FI-05-11_LYM)
 
 기간 : 2026.11.16 - 2026.12.23
 
 내용 : 
 
-CATIA V5 미래 모빌리티 설계 경험
+### CATIA V5 미래 모빌리티 설계 경험
 
 기간 : 2024.09 - 2024.12
 
@@ -30,21 +30,21 @@ CATIA V5 미래 모빌리티 설계 경험
 내용 : 1:20 Scale 소형 RC카 부품 설계 및 12,500mm 전장의 건설 노동자를 위한 미래모빌리티 설계 및 Assembly
 
 
-6-Sigma 공정 개선 프로젝트
+### 6-Sigma 공정 개선 프로젝트
 
 기간 : 2024.09 - 2024.12
 
 내용 : 가장 오래 비행할 수 있는 종이 헬기 제작을 목표, 6-Sigma의 DMAIC 이론을 바탕으로 제품의 공정을 개선
 
 
-다학제간캡스톤디자인
+### 다학제간캡스톤디자인
 
 기간 : 2026.11.16 - 2026.12.23
 
 내용 : 
 
 
-[YOLO V3 기반 객체인식](https://github.com/REDNeOnSpade/yolov3-docker)
+### [YOLO V3 기반 객체인식](https://github.com/REDNeOnSpade/yolov3-docker)
 
 기간 : 
 
