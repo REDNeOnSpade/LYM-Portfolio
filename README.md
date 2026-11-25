@@ -13,10 +13,30 @@
 # 프로젝트 경험
 [TOPST(D3-G, VCP-G, AI-G)기반 차량용 SoC 반도체 개발](https://github.com/Fabless-Academy/FI-05-11_LYM)
 
-[YOLO V3 기반 객체인식](https://github.com/REDNeOnSpade/yolov3-docker)
+기간 : 2026.11.16 - 2026.12.23
+
+내용 : 
 
 CATIA V5 미래 모빌리티 설계 경험
 
+기간 : 2026.11.16 - 2026.12.23
+
+내용 : 
+
 6-Sigma 공정 개선 프로젝트
 
+기간 : 2026.11.16 - 2026.12.23
+
+내용 : 
+
+
 다학제간캡스톤디자인
+
+기간 : 2026.11.16 - 2026.12.23
+
+내용 : 
+
+
+[YOLO V3 기반 객체인식](https://github.com/REDNeOnSpade/yolov3-docker)
+기간 : 
+내용 : 
